@@ -451,6 +451,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
 - **[Nextcloud Calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** - CalDAV Nectcloud calendar integration. Manage calendars, events, attendees, etc.
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
+- **[Nexus-MCP](https://github.com/jaggernaut007/Nexus-MCP)** - Unified code intelligence server with hybrid search (vector + BM25 + graph), structural code graph analysis, and persistent semantic memory. 10 tools, <350MB RAM, fully local.
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
 - **[NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server)** - Manage NocoDB server, support read and write databases
 - **[NodeCodeStudio](https://nodecodestudio.com)** - Activate MCP services (Gmail, Calendar, WordPress, etc.) and run browser automation workflows via a Chrome extension with importable sequences
